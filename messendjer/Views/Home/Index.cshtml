@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<form method="post" asp-controller="Account" asp-action="Logout">
+    <div class="text-center">
+        <span class="login100-form-title p-b-33" asp-validation-summary="ModelOnly">
+            @User.Claims.Where(c => c.Type == "UserName").Select(c => c.Value).SingleOrDefault() ,
+        </span>
+
+        <span class="login100-form-title p-b-33" asp-validation-summary="ModelOnly">
+
+            Добро пожаловать в Rudon!
+        </span>
+
+    </div>
+   
+</form>
