@@ -78,7 +78,7 @@ namespace messendjer.Controllers
 
         private async Task Authenticate(string Login, string NameSurname)
         {
-            // создаем один claim
+            // создаем claim
             var claims = new List<Claim>
             {
                 new Claim(ClaimTypes.Name,Login),

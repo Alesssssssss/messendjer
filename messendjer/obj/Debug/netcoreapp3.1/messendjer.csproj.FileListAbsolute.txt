@@ -84,3 +84,4 @@ C:\Users\Alessandra\source\repos\messendjer\messendjer\obj\Debug\netcoreapp3.1\R
 C:\Users\Alessandra\source\repos\messendjer\messendjer\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Alessandra\source\repos\messendjer\messendjer\obj\Debug\netcoreapp3.1\Razor\Views\Account\Acc.cshtml.g.cs
 C:\Users\Alessandra\source\repos\messendjer\messendjer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutEmpty.cshtml.g.cs
+C:\Users\Alessandra\source\repos\messendjer\messendjer\bin\Debug\netcoreapp3.1\libman.json
