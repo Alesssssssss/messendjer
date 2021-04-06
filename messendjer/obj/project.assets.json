@@ -6054,25 +6054,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alessandra\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alessandra\\source\\repos\\messendjer\\messendjer\\messendjer.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\Alesssssssss\\messendjer\\messendjer\\messendjer.csproj",
       "projectName": "messendjer",
-      "projectPath": "C:\\Users\\Alessandra\\source\\repos\\messendjer\\messendjer\\messendjer.csproj",
-      "packagesPath": "C:\\Users\\Alessandra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alessandra\\source\\repos\\messendjer\\messendjer\\obj\\",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\Alesssssssss\\messendjer\\messendjer\\messendjer.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\Alesssssssss\\messendjer\\messendjer\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Alessandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -6126,7 +6121,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
